@@ -23,6 +23,7 @@
         "grapesjs-plugin-export": "^0.1.5",
         "grapesjs-plugin-filestack": "^0.1.1",
         "grapesjs-plugin-forms": "^0.3.5",
+        "grapesjs-preset-newsletter": "^0.2.21",
         "vue": "^2.5.0"
     }
 }
